@@ -1,0 +1,1 @@
+absolute position solution to fix the sticky footer problem.
