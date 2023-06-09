@@ -1,0 +1,1 @@
+Bootstrap solution to the sticky footer.
